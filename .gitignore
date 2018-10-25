@@ -1,3 +1,6 @@
+# ignore pretrained word embeddings
+glove.6B/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
