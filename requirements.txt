@@ -1,9 +1,9 @@
-pandas
+ipykernel
+jupyter
 numpy
+pandas
 matplotlib
 sklearn
 keras
 tensorflow
 tensorboard
-ipykernel
-jupyter
